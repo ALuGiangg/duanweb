@@ -1,0 +1,28 @@
+h1 {
+  /* Màu chữ */
+  color: blueviolet;
+  /* Kiểu chữ */
+  font-style: italic;
+  /* Phông chữ */
+  font-family: Arial, Helvetica, sans-serif;
+  /* Chuyển đổi viết hoa viết thường */
+  text-transform: uppercase;
+  /* Căn giữa */
+  text-align: center;
+  /* Cỡ chữ */
+  font-size: 14px;
+  /* Dộ nét */
+  opacity: 100%;
+  /* Ản , không tương tác được */
+  visibility: visible;
+  /* ẩn hoàn toàn */
+  display: grid;
+}
+h3 {
+  color: red;
+  font-size: 30px;
+  text-align: center;
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1697441642505-0f4ce8fbe98a?auto=format&fit=crop&q=60&w=1000&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw0fHx8ZW58MHx8fHx8);
+}
